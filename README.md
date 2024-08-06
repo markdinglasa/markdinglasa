@@ -26,7 +26,7 @@ I'm a software engineer with a year of experience specializing in frontend and b
 
 ## Recent Projects
 [![Ticket Management System](https://github-readme-stats.vercel.app/api/pin/?username=ryanmarkdinglasa&repo=innosoft-tms&theme=default)](https://github.com/ryanmarkdinglasa/innosoft-tms)
-[![SM - Sales Insights & Analytics](https://github-readme-stats.vercel.app/api/pin/?username=ryanmarkdinglasa&repo=innosoft-sia&theme=default)](https://github.com/ryanmarkdinglasa/innosoft-sia)
+[![SM - Sales Insights & Analytics](https://github-readme-stats.vercel.app/api/pin/?username=ryanmarkdinglasa&repo=SM-Accredidation-iPOS&theme=default)](https://github.com/ryanmarkdinglasa/SM-Accredidation-iPOS)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
