@@ -31,4 +31,4 @@ I'm a software engineer with a year of experience specializing in frontend and b
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-In_Progress-339933)](https://your-portfolio.com)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-In_Progress-339933)](https://your-portfolio.com)
