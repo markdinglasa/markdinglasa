@@ -5,7 +5,7 @@ I'm a Full Stack Developer with a year of experience specializing in frontend an
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-CSS-1572B6?style=flat&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-1572B6?style=flat&logo=tailwindcss&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7D12F9?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=flat&logo=typescript&logoColor=white)
