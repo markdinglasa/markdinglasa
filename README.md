@@ -27,7 +27,7 @@ I'm a software engineer with a year of experience specializing in frontend and b
 ## 🧑🏽‍💻 Recent Projects
 ![Ticket Management System](https://img.shields.io/badge/-Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
 ![SM Sales Insights & Analytics](https://img.shields.io/badge/-Sales_Insights_&_Analytics-FFA500?style=flat&logo=bar-chart&logoColor=white)
-![Point of Sales System](https://img.shields.io/badge/-POS-Point-of-Sales-System-CC2927?style=flat&logo=sales&logoColor=white)
+![Point of Sales System](https://img.shields.io/badge/-POS-Point-of-Sales-System-CC2927?style=flat&logo=bar-chart&logoColor=white)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
