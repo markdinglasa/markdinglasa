@@ -27,7 +27,7 @@ I'm a software engineer with a year of experience specializing in frontend and b
 ## 🧑🏽‍💻 Recent Projects
 ![Ticket Management System](https://img.shields.io/badge/Private-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
 
-![SM Sales Insights & Analytics](https://img.shields.io/badge/Private-(SM_SIA)_Sales_Insights_&_Analytics-F7DF1E?style=flat&logo=bar-chart&logoColor=white)
+![SM Sales Insights & Analytics](https://img.shields.io/badge/Private-(SM_SIA)_Sales_Insights_&_Analytics-F7DF1E?style=flat&logo=bar-chart&logoColor=black)
 
 ![Point of Sales System](https://img.shields.io/badge/Private-(POS)_Point_of_Sales_System-CC2927?style=flat&logo=bar-chart&logoColor=white)
 
