@@ -9,7 +9,10 @@ I'm a software engineer with a year of experience specializing in frontend and b
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MSSQL Server](https://img.shields.io/badge/-MSSQL-47A248?style=flat&logo=mssql&logoColor=white)
+![Electron.js](https://img.shields.io/badge/-Electron-47A248?style=flat&logo=electron.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-47A248?style=flat&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
