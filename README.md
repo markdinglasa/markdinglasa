@@ -24,10 +24,10 @@ I'm a software engineer with a year of experience specializing in frontend and b
 ## 📈 GitHub Stats
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmarkdinglasa&show_icons=true&theme=default)
 
-## Recent Projects
-[![Ticket Management System](https://github-readme-stats.vercel.app/api/pin/?username=ryanmarkdinglasa&repo=innosoft-tms&theme=default)](https://github.com/ryanmarkdinglasa/innosoft-tms)
-[![SM - Sales Insights & Analytics](https://github-readme-stats.vercel.app/api/pin/?username=ryanmarkdinglasa&repo=SM-Accredidation-iPOS&theme=default)](https://github.com/ryanmarkdinglasa/SM-Accredidation-iPOS)
+## 🧑🏽‍💻 Recent Projects
+![TMS - Ticket Management System](https://img.shields.io/badge/-Ticket_Management_System_Desktop)
+![SM - Sales Insights & Analytics](https://img.shields.io/badge/-SM_SIA)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://your-portfolio.com) ![Status](https://img.shields.io/badge/-In-Progress-339933?style=flat&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://your-portfolio.com)![Status](https://img.shields.io/badge/-In-Progress-339933?style=flat&logo=progress&logoColor=white)
