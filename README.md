@@ -21,17 +21,8 @@ I'm a software engineer with a year of experience specializing in frontend and b
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmarkdinglasa&show_icons=true&theme=radical)
-
-## 📌 Pinned Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical)](https://github.com/your-username/repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical)](https://github.com/your-username/repo-2)
-
-## 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmarkdinglasa&show_icons=true&theme=default)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://your-portfolio.com)
