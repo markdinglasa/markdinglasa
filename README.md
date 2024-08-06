@@ -13,6 +13,7 @@ I'm a software engineer with a year of experience specializing in frontend and b
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat&logo=python&logoColor=black)
 
 ![MSSQL Server](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
