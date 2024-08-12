@@ -28,11 +28,11 @@ I'm a Full Stack Developer with a year of experience specializing in frontend an
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmarkdinglasa&show_icons=true&theme=default)
 
 ## 🧑🏽‍💻 Recent Projects
-![Ticket Management System](https://img.shields.io/badge/Private-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
+![Ticket Management System](https://img.shields.io/badge/Private-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white) Desktop Application
 
-![SM Sales Insights & Analytics](https://img.shields.io/badge/Private-(SM_SIA)_Sales_Insights_&_Analytics-F7DF1E?style=flat&logo=bar-chart&logoColor=black)
+![SM Sales Insights & Analytics](https://img.shields.io/badge/Private-(SM_SIA)_Sales_Insights_&_Analytics-F7DF1E?style=flat&logo=bar-chart&logoColor=black) Desktop Application
 
-![Point of Sales System](https://img.shields.io/badge/Private-(POS)_Point_of_Sales_System-CC2927?style=flat&logo=bar-chart&logoColor=white)
+![Point of Sales System](https://img.shields.io/badge/Private-(POS)_Point_of_Sales_System-CC2927?style=flat&logo=bar-chart&logoColor=white) Desktop Application
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
