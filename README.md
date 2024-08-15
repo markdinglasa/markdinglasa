@@ -17,7 +17,7 @@ I'm a Full Stack Developer with a year of experience specializing in frontend an
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat&logo=python&logoColor=default)
 
-![MSSQL Server](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=mssql&logoColor=white)(https://www.microsoft.com/en-us/download/details.aspx?id=30438): Version 2022
+![MSSQL Server](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=mssql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-Mysql-1572B6?style=flat&logo=mysql&logoColor=white)
 
