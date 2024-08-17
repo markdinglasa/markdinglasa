@@ -25,7 +25,7 @@ I'm a Full Stack Developer with a year of experience specializing in frontend an
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanmarkdinglasa&show_icons=true&theme=default)
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=emperorkira&show_icons=true&theme=default)
 
 ## 🧑🏽‍💻 Recent Projects
 ![Ticket Management System](https://img.shields.io/badge/Private_|_Desktop_App-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
