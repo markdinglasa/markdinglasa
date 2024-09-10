@@ -28,7 +28,7 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=emperorkira&show_icons=true&theme=default)
 
 ## 🧑🏽‍💻 Recent Projects
-![Ticket Management System](https://img.shields.io/badge/Private_|_Desktop_App-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
+![Ticket Management System](https://img.shields.io/badge/Private_|_Hybrid_App-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
 
 ![SM Sales Insights & Analytics](https://img.shields.io/badge/Private_|_Desktop_App-(SM_SIA)_Sales_Insights_&_Analytics-F7DF1E?style=flat&logo=bar-chart&logoColor=black)
 
