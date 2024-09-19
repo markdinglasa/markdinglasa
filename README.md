@@ -25,7 +25,9 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=emperorkira&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=emperorkira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=emperorkira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emperorkira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧑🏽‍💻 Recent Projects
 ![Ticket Management System](https://img.shields.io/badge/Private_|_Hybrid_App-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
@@ -38,3 +40,7 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mark.ding1asa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-In_Progress-339933)](https://your-portfolio.com)
+
+---
+[![](https://visitcount.itsvg.in/api?id=emperorkira&icon=2&color=12)](https://visitcount.itsvg.in)
+
