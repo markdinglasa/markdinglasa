@@ -27,7 +27,7 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=emperorkira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emperorkira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emperorkira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emperorkira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🧑🏽‍💻 Recent Projects
 ![Ticket Management System](https://img.shields.io/badge/Private_|_Hybrid_App-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
