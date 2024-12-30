@@ -31,9 +31,9 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 
 ## 🧑🏽‍💻 Recent Projects
 
-![Connex](https://img.shields.io/badge/Private_|_Responsive_Web_App-(Connex)_Nurturing_Alumni_Connections-005680?style=flat&logo=C&logoColor=white)
+![Connex](https://img.shields.io/badge/Private_|_Responsive_Web_App-(Connex)_Nurturing_Alumni_Connections-005680?style=flat)
 
-![Roots and Morphology App](https://img.shields.io/badge/Private_|_Web&Mobile_App-(RTM)_Roots_And_Morphology_App-204BE4?style=flat&logo=R&logoColor=white)
+![Roots and Morphology App](https://img.shields.io/badge/Private_|_Web&Mobile_App-(RTM)_Roots_And_Morphology_App-204BE4?style=flat)
 
 ![Ticket Management System](https://img.shields.io/badge/Private_|_Hybrid_App-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
 
