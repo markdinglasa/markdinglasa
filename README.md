@@ -30,11 +30,13 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emperorkira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🧑🏽‍💻 Recent Projects
+![Roots and Morphology App](https://img.shields.io/badge/Private_|_Web&Mobile_App-(TMS)_Roots_And_Morphology_App-204BE4?style=flat&logo=R&logoColor=white)
+
 ![Ticket Management System](https://img.shields.io/badge/Private_|_Hybrid_App-(TMS)_Ticket_Management_System-0078D4?style=flat&logo=tickets&logoColor=white)
 
 ![SM Sales Insights & Analytics](https://img.shields.io/badge/Private_|_Desktop_App-(SM_SIA)_Sales_Insights_&_Analytics-F7DF1E?style=flat&logo=bar-chart&logoColor=black)
 
-![Point of Sales System](https://img.shields.io/badge/Private_|_Desktop_App-(POS)_Point_of_Sales_System-CC2927?style=flat&logo=bar-chart&logoColor=white)
+![Point of Sales System](https://img.shields.io/badge/Private_|_Hybrid_App-(POS)_Point_of_Sales_System-CC2927?style=flat&logo=bar-chart&logoColor=white)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
