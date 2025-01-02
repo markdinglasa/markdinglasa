@@ -25,9 +25,9 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=emperorkira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emperorkira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emperorkira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=markdinglasa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=markdinglasa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=markdinglasa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🧑🏽‍💻 Recent Projects
 
@@ -47,5 +47,5 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 [![Portfolio](https://img.shields.io/badge/Portfolio-In_Progress-339933)](https://your-portfolio.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=emperorkira&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=markdinglasa&icon=2&color=12)](https://visitcount.itsvg.in)
 
