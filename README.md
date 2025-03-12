@@ -44,7 +44,7 @@ I'm a Full Stack Developer with 2 years of experience specializing in frontend a
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-mark-d-manos-752894271/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mark.ding1asa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-339933)](https://your-portfolio.com](https://portfolio-r6wh9w7xv-silverstein1.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-339933)](https://portfolio-r6wh9w7xv-silverstein1.vercel.app/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=markdinglasa&icon=2&color=12)](https://visitcount.itsvg.in)
