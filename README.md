@@ -1,6 +1,6 @@
 # Hi there, I'm Mark 👋
 
-I'm a Full Stack Developer with 2 years of experience specializing in frontend and backend development. I'm passionate about building web applications, desktop application, contributing to open source, and continuously learning new technologies.
+I'm a Full Stack Developer with 3+ years of experience specializing in frontend and backend development. I'm passionate about building web applications, desktop application, contributing to open source, and continuously learning new technologies.
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
