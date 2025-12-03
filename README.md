@@ -12,6 +12,9 @@ I'm a Full Stack Developer with 3+ years of experience specializing in frontend 
 - Styling
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-FFFFFF?style=flat&logo=tailwindcss&logoColor=4E7D8D) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7D12F9?style=flat&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-393939?style=flat&logo=mui&logoColor=blue)
+![ShadCN](https://img.shields.io/badge/-ShadcnUI-161616?style=flat&logo=shadcn/ui&logoColor=white)
+![Reactbits](https://img.shields.io/badge/-Reactbits-8239FF?style=flat&logo=reactbits&logoColor=white)
 - Frontend-Frameworks
 ![Angular](https://img.shields.io/badge/-Angular-CC2927?style=flat&logo=angular&logoColor=white)
 ![React Router](https://img.shields.io/badge/-Router-black?style=flat&logo=remix&logoColor=CC2927)
