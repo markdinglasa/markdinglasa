@@ -11,6 +11,9 @@ I'm a Full Stack Developer with 3+ years of experience specializing in frontend 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-CC2927?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React-Native-61DAFB?style=flat&logo=reactNative&logoColor=black)
+![React Router](https://img.shields.io/badge/-React-Router-61DAFB?style=flat&logo=reactrouter&logoColor=black)
+![NextJS](https://img.shields.io/badge/-Next-JS-61DAFB?style=flat&logo=nextjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
@@ -23,7 +26,7 @@ I'm a Full Stack Developer with 3+ years of experience specializing in frontend 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+![Docker](https://img.shields.io/badge/-Docker-F05032?style=flat&logo=docker&logoColor=blue)
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=markdinglasa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markdinglasa&theme=dark&hide_border=false)<br/>
