@@ -56,7 +56,8 @@ I'm a Full Stack Developer with 3+ years of experience specializing in frontend 
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)
 - CI/CD
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=blue)
-# API Documentation
+- API & Documentation
+[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
@@ -75,7 +76,6 @@ I'm a Full Stack Developer with 3+ years of experience specializing in frontend 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 - Documentation
-[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#)
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=markdinglasa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
